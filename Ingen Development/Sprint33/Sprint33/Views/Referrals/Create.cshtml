@@ -1,0 +1,140 @@
+﻿@model Sprint33.Models.Referral
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>Referral</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.referral_patient_Name, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.referral_patient_Name, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.referral_patient_Name, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.referral_patient_Surname, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.referral_patient_Surname, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.referral_patient_Surname, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.referral_patient_DOB, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.referral_patient_DOB, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.referral_patient_DOB, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.referral_patient_Gender, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.RadioButtonFor(model => model.referral_patient_Gender, "Female") &nbsp; Female <br />
+                @Html.RadioButtonFor(model => model.referral_patient_Gender, "Male") &nbsp; Male <br />
+                @Html.ValidationMessageFor(model => model.referral_patient_Gender, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.referral_ValidDate, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.referral_ValidDate, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.referral_ValidDate, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.refferal_Location, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.refferal_Location,
+           new[] { new SelectListItem{Text="Addington Hospital",Value="Addington Hospital"},
+           new SelectListItem{Text="Appelsbosch hospital",Value="Appelsbosch hospital"},
+           new SelectListItem{Text="Benedictine Hospital",Value="Benedictine Hospital"},
+           new SelectListItem{Text="Bethesda Hospital",Value="Bethesda Hospital"},
+           new SelectListItem{Text="Catherine Booth hospital",Value="Catherine Booth hospital"},
+           new SelectListItem{Text="Ceza Hospital",Value="Ceza Hospital"},
+           new SelectListItem{Text="Charles James hospital",Value="Charles James hospital"},
+           new SelectListItem{Text="Charles Johnson Memorial hospital",Value="Charles Johnson Memorial hospital"},
+           new SelectListItem{Text="Christ the King hospital",Value="Christ the King hospital"},
+           new SelectListItem{Text="Church of Scotland hospital",Value="Church of Scotland hospital"},
+           new SelectListItem{Text="Clairwood hospital",Value="Clairwood hospital"},
+           new SelectListItem{Text="Don McKenzie hospital",Value="Don McKenzie hospital"},
+           new SelectListItem{Text="Doris Goodwin hospital",Value="Doris Goodwin hospital"},
+           new SelectListItem{Text="Dundee hospital",Value="Dundee hospital"},
+           new SelectListItem{Text="Edendale hospital",Value="Edendale hospital"},
+           new SelectListItem{Text="E.G & Usher Memorial hospital",Value="E.G & Usher Memorial hospital"},
+           new SelectListItem{Text="Ekombe Hospital",Value="Ekombe Hospital"},
+           new SelectListItem{Text="Ekuhlengeni Psychiatric hospital",Value="Ekuhlengeni Psychiatric hospital"},
+           new SelectListItem{Text="Eshowe Hospital",Value="Eshowe Hospital"},
+           new SelectListItem{Text="Estcourt Hospital",Value="Estcourt Hospital"},
+           new SelectListItem{Text="Fort Napier hospital",Value="Fort Napier hospital"},
+           new SelectListItem{Text="FOSA TB hospital",Value="FOSA TB hospital"},
+           new SelectListItem{Text="Stanger Hospital",Value="Stanger Hospital"},
+           new SelectListItem{Text="G.J. Crookes hospital",Value="G.J. Crookes hospital"},
+           new SelectListItem{Text="Grey's Hospital",Value="Grey's Hospital"},
+           new SelectListItem{Text="Greytown hospital",Value="Greytown hospital"},
+           new SelectListItem{Text="Hillcrest hospital",Value="Hillcrest hospital"},
+           new SelectListItem{Text="Hlabisa hospital",Value="Hlabisa hospital"},
+           new SelectListItem{Text="Inkosi Albert Luthuli Central Hospital",Value="Inkosi Albert Luthuli Central Hospital"},
+           new SelectListItem{Text="Itshelejuba hospital",Value="Itshelejuba hospital"},
+           new SelectListItem{Text="King George V hospital",Value="King George V hospital"},
+           new SelectListItem{Text="King Edward VIII hospital",Value="King Edward VIII hospital"},
+           new SelectListItem{Text="KwaMagwaza hospital",Value="KwaMagwaza hospital"},
+           new SelectListItem{Text="KZN Children's hospital",Value="KZN Children's hospital"},
+           new SelectListItem{Text="Mbongolwane hospital",Value="Mbongolwane hospital"},
+           new SelectListItem{Text="McCord Hospital",Value="McCord Hospital"},
+           new SelectListItem{Text="Montebello hospital",Value="Montebello hospital"},
+           new SelectListItem{Text="Newcastle Hospital",Value="Newcastle Hospital"},
+           new SelectListItem{Text="Northdale hospital",Value="Northdale hospital"},
+           new SelectListItem{Text="Osindisweni hospital",Value="Osindisweni hospital"},
+           new SelectListItem{Text="Port Shepstone hospital",Value="Port Shepstone hospital"},
+           new SelectListItem{Text="Prince Mshiyeni hospital",Value="Prince Mshiyeni hospital"},
+           new SelectListItem{Text="R. K. Khan hospital",Value="R. K. Khan hospital"},
+           new SelectListItem{Text="St. Aidan's hospital",Value="St. Aidan's hospital"},
+           new SelectListItem{Text="St. Andrews hospital",Value="St. Andrews hospital"},
+           new SelectListItem{Text="St Mary's hospital",Value="St Mary's hospital"},
+           new SelectListItem{Text="Thulasizwe Hospital",Value="Thulasizwe Hospital"},
+           new SelectListItem{Text="Town Hill hospital",Value="Town Hill hospital"},
+           new SelectListItem{Text="Umgeni hospital",Value="Umgeni hospital"},
+           new SelectListItem{Text="Umphumulo hospital",Value="Umphumulo hospital"},
+           new SelectListItem{Text="Vryheid Hospital",Value="Vryheid Hospital"},
+           new SelectListItem{Text="Wentworth hospital",Value="Wentworth hospital"} },
+
+           "---Choose Hospital---")<br /><br />
+                @Html.ValidationMessageFor(model => model.refferal_Location, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.referral_Reasoning, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextAreaFor(model => model.referral_Reasoning, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.referral_Reasoning, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

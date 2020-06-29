@@ -9,7 +9,7 @@ namespace Sprint33.Migrations
     {
         public Configuration()
         {
-            AutomaticMigrationsEnabled = false;
+            AutomaticMigrationsEnabled = true;
         }
 
         protected override void Seed(Sprint33.Models.ApplicationDbContext context)
