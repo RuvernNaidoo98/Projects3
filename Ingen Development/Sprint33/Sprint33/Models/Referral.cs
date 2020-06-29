@@ -5,7 +5,10 @@ using System.Web;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-
+//This is the updated model
+//We need to add validation etc for the dates 
+//They will ask to set a date that will be invalid  example( Referral start date:  12/01/2020 --> Expiration Date : 12/03/1998)
+//The above will currently add to the database and will not throw an error
 namespace Sprint33.Models
 {
     public class Referral

@@ -359,13 +359,6 @@
     <Content Include="Views\Inventories1\Lowstock.cshtml" />
     <Content Include="Views\Inventories1\HighStock.cshtml" />
     <Content Include="Views\Appointments1\DoctorPatientHistory.cshtml" />
-    <Content Include="Web - Copy.config" />
-    <Content Include="Web - Copy.Debug.config">
-      <DependentUpon>Web - Copy.config</DependentUpon>
-    </Content>
-    <Content Include="Web - Copy.Release.config">
-      <DependentUpon>Web - Copy.config</DependentUpon>
-    </Content>
     <Content Include="Views\Referrals\Create.cshtml" />
     <Content Include="Views\Referrals\Delete.cshtml" />
     <Content Include="Views\Referrals\Details.cshtml" />
