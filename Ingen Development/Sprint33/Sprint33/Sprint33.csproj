@@ -25,6 +25,7 @@
     <UseGlobalApplicationHostFile />
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -205,12 +206,21 @@
     <Compile Include="Controllers\Inventories1Controller.cs" />
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="Controllers\Patients1Controller.cs" />
+    <Compile Include="Controllers\ReferralsController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Migrations\201910141547303_A.cs" />
     <Compile Include="Migrations\201910141547303_A.Designer.cs">
       <DependentUpon>201910141547303_A.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202006291456241_ref.cs" />
+    <Compile Include="Migrations\202006291456241_ref.Designer.cs">
+      <DependentUpon>202006291456241_ref.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202006291459125_referral.cs" />
+    <Compile Include="Migrations\202006291459125_referral.Designer.cs">
+      <DependentUpon>202006291459125_referral.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
@@ -222,6 +232,7 @@
     <Compile Include="Models\Inventory.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Models\Patient.cs" />
+    <Compile Include="Models\Referral.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
   </ItemGroup>
@@ -348,6 +359,18 @@
     <Content Include="Views\Inventories1\Lowstock.cshtml" />
     <Content Include="Views\Inventories1\HighStock.cshtml" />
     <Content Include="Views\Appointments1\DoctorPatientHistory.cshtml" />
+    <Content Include="Web - Copy.config" />
+    <Content Include="Web - Copy.Debug.config">
+      <DependentUpon>Web - Copy.config</DependentUpon>
+    </Content>
+    <Content Include="Web - Copy.Release.config">
+      <DependentUpon>Web - Copy.config</DependentUpon>
+    </Content>
+    <Content Include="Views\Referrals\Create.cshtml" />
+    <Content Include="Views\Referrals\Delete.cshtml" />
+    <Content Include="Views\Referrals\Details.cshtml" />
+    <Content Include="Views\Referrals\Edit.cshtml" />
+    <Content Include="Views\Referrals\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -363,6 +386,12 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201910141547303_A.resx">
       <DependentUpon>201910141547303_A.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202006291456241_ref.resx">
+      <DependentUpon>202006291456241_ref.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202006291459125_referral.resx">
+      <DependentUpon>202006291459125_referral.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

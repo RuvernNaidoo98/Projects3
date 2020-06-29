@@ -30,6 +30,8 @@ namespace Sprint33.Models
         public DbSet<Inventory> Inventorys { get; set; }
         public object Items { get; internal set; }
         public DbSet<Patient> Patients { get; set; }
+
+        public DbSet<Referral> referrals { get; set; }
         public static ApplicationDbContext Create()
         {
             return new ApplicationDbContext();
