@@ -9,6 +9,14 @@
 <p>
     @Html.ActionLink("Create New", "Create")
 </p>
+
+@using (Html.BeginForm("Index", "Referrals", FormMethod.Get))
+{
+    <b>Search Referral:</b>
+    <p>
+        @Html.TextBox("search")<input type="submit" value="Search" />
+    </p>
+}
 <table class="table">
     <tr>
         <th>

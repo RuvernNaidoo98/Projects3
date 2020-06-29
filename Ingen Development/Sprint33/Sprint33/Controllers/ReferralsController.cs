@@ -15,9 +15,10 @@ namespace Sprint33.Controllers
         private ApplicationDbContext db = new ApplicationDbContext();
 
         // GET: Referrals
-        public ActionResult Index()
+        public ActionResult Index(string search)
         {
-            return View(db.referrals.ToList());
+            //return View(db.referrals.ToList());
+            return View(db.referrals.Where(x => x.referral_patient_Name.Contains(search) || search == null).ToList());
         }
 
         // GET: Referrals/Details/5
