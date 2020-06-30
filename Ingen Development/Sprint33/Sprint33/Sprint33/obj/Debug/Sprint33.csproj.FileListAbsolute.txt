@@ -1,0 +1,865 @@
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\ApplicationInsights.config
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\roslyn\csc.exe
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Sprint33.dll.config
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Sprint33.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Sprint33.pdb
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\EntityFramework.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.AI.Web.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Owin.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\WebGrease.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.AI.Web.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\EntityFramework.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\obj\Debug\Sprint33.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\obj\Debug\Sprint33.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\obj\Debug\Sprint33.pdb
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\obj\Debug\Sprint33.Migrations.A.resources
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Sprint33\Sprint33\obj\Debug\Sprint33.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\ApplicationInsights.config
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\roslyn\csc.exe
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Sprint33.dll.config
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Sprint33.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Sprint33.pdb
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\EntityFramework.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.AI.Web.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Owin.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\WebGrease.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.AI.Web.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\EntityFramework.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\obj\Debug\Sprint33.Migrations.A.resources
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\obj\Debug\Sprint33.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\obj\Debug\Sprint33.dll
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\obj\Debug\Sprint33.pdb
+C:\Users\user\Desktop\AppDev2B Project\Project Versions\Test Deploy\Sprint33\Sprint33\obj\Debug\Sprint33.csprojResolveAssemblyReference.cache
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\ApplicationInsights.config
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\roslyn\csc.exe
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\roslyn\System.Collections.Immutable.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\roslyn\System.Reflection.Metadata.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\roslyn\vbc.exe
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\roslyn\VBCSCompiler.exe
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\roslyn\VBCSCompiler.exe.config
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Sprint33.dll.config
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Sprint33.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Sprint33.pdb
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Antlr3.Runtime.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\EntityFramework.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\EntityFramework.SqlServer.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.AI.DependencyCollector.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.AI.Web.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.AI.WindowsServer.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.ApplicationInsights.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.Owin.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.Owin.Security.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Google.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.Web.Infrastructure.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Newtonsoft.Json.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Owin.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\System.Web.Helpers.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\System.Web.Mvc.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\System.Web.Optimization.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\System.Web.Razor.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\System.Web.WebPages.Deployment.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\System.Web.WebPages.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\System.Web.WebPages.Razor.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\WebGrease.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.AI.DependencyCollector.xml
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.AI.Web.xml
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.AI.WindowsServer.xml
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.ApplicationInsights.xml
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Newtonsoft.Json.xml
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\System.Web.Helpers.xml
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\System.Web.Mvc.xml
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\System.Web.Optimization.xml
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\System.Web.Razor.xml
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\System.Web.WebPages.xml
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\System.Web.WebPages.Deployment.xml
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\System.Web.WebPages.Razor.xml
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Antlr3.Runtime.pdb
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\EntityFramework.xml
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\EntityFramework.SqlServer.xml
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.Owin.xml
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.Owin.Security.xml
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Google.xml
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\obj\Debug\Sprint33.csprojAssemblyReference.cache
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\obj\Debug\Sprint33.Migrations.A.resources
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\obj\Debug\Sprint33.csproj.GenerateResource.cache
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\obj\Debug\Sprint33.csproj.CoreCompileInputs.cache
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\obj\Debug\Sprint33.csproj.CopyComplete
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\obj\Debug\Sprint33.dll
+D:\Old luri stuff\final sprint\Sprint33\Sprint33\obj\Debug\Sprint33.pdb
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\ApplicationInsights.config
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\roslyn\csc.exe
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\roslyn\vbc.exe
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Sprint33.dll.config
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Sprint33.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Sprint33.pdb
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Antlr3.Runtime.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\EntityFramework.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\EntityFramework.SqlServer.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.Web.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Newtonsoft.Json.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Owin.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\System.Web.Helpers.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\System.Web.Mvc.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\System.Web.Optimization.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\System.Web.Razor.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\System.Web.WebPages.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\WebGrease.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.Web.xml
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.ApplicationInsights.xml
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Newtonsoft.Json.xml
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\System.Web.Helpers.xml
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\System.Web.Mvc.xml
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\System.Web.Optimization.xml
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\System.Web.Razor.xml
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\System.Web.WebPages.xml
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Antlr3.Runtime.pdb
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\EntityFramework.xml
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\EntityFramework.SqlServer.xml
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.xml
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.xml
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\obj\Debug\Sprint33.csprojAssemblyReference.cache
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\obj\Debug\Sprint33.Migrations.A.resources
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\obj\Debug\Sprint33.csproj.GenerateResource.cache
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\obj\Debug\Sprint33.csproj.CoreCompileInputs.cache
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\obj\Debug\Sprint33.csproj.CopyComplete
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\obj\Debug\Sprint33.dll
+C:\Users\USER19980316\Source\Repos\RuvernNaidoo98\Projects3\Ingen Development\Sprint33\Sprint33\obj\Debug\Sprint33.pdb
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\ApplicationInsights.config
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\roslyn\csc.exe
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\roslyn\vbc.exe
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\roslyn\VBCSCompiler.exe
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Sprint33.dll.config
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Sprint33.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Sprint33.pdb
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Antlr3.Runtime.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\EntityFramework.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\EntityFramework.SqlServer.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.AI.Web.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.ApplicationInsights.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.Owin.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.Owin.Security.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Newtonsoft.Json.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Owin.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\System.Web.Helpers.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\System.Web.Mvc.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\System.Web.Optimization.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\System.Web.Razor.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\System.Web.WebPages.Deployment.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\System.Web.WebPages.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\System.Web.WebPages.Razor.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\WebGrease.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.AI.Web.xml
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.ApplicationInsights.xml
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Newtonsoft.Json.xml
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\System.Web.Helpers.xml
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\System.Web.Mvc.xml
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\System.Web.Optimization.xml
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\System.Web.Razor.xml
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\System.Web.WebPages.xml
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\System.Web.WebPages.Deployment.xml
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\System.Web.WebPages.Razor.xml
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Antlr3.Runtime.pdb
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\EntityFramework.xml
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\EntityFramework.SqlServer.xml
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.Owin.xml
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.Owin.Security.xml
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\obj\Debug\Sprint33.Migrations.A.resources
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\obj\Debug\Sprint33.csproj.GenerateResource.cache
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\obj\Debug\Sprint33.dll
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\obj\Debug\Sprint33.pdb
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\obj\Debug\Sprint33.csprojResolveAssemblyReference.cache
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\obj\Debug\Sprint33.Migrations._ref.resources
+C:\Users\katie\OneDrive\Desktop\New folder (3)\Sprint33\Sprint33\obj\Debug\Sprint33.Migrations.referral.resources
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\ApplicationInsights.config
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\roslyn\csc.exe
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\roslyn\vbc.exe
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Sprint33.dll.config
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Sprint33.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Sprint33.pdb
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Antlr3.Runtime.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\EntityFramework.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\EntityFramework.SqlServer.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.Web.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Newtonsoft.Json.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Owin.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\System.Web.Helpers.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\System.Web.Mvc.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\System.Web.Optimization.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\System.Web.Razor.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\System.Web.WebPages.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\WebGrease.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.Web.xml
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.ApplicationInsights.xml
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Newtonsoft.Json.xml
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\System.Web.Helpers.xml
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\System.Web.Mvc.xml
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\System.Web.Optimization.xml
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\System.Web.Razor.xml
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\System.Web.WebPages.xml
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Antlr3.Runtime.pdb
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\EntityFramework.xml
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\EntityFramework.SqlServer.xml
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.xml
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.xml
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\obj\Debug\Sprint33.csprojAssemblyReference.cache
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\obj\Debug\Sprint33.Migrations.A.resources
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\obj\Debug\Sprint33.Migrations._ref.resources
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\obj\Debug\Sprint33.Migrations.referral.resources
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\obj\Debug\Sprint33.csproj.GenerateResource.cache
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\obj\Debug\Sprint33.csproj.CoreCompileInputs.cache
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\obj\Debug\Sprint33.csproj.CopyComplete
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\obj\Debug\Sprint33.dll
+C:\Users\USER19980316\Documents\GitHub\Projects3\Ingen Development\Sprint33\Sprint33\obj\Debug\Sprint33.pdb
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\ApplicationInsights.config
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\roslyn\csc.exe
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\roslyn\vbc.exe
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\roslyn\VBCSCompiler.exe
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Sprint33.dll.config
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Sprint33.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Sprint33.pdb
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Antlr3.Runtime.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\EntityFramework.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\EntityFramework.SqlServer.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.Web.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Newtonsoft.Json.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Owin.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\System.Web.Helpers.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\System.Web.Mvc.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\System.Web.Optimization.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\System.Web.Razor.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\System.Web.WebPages.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\System.Web.WebPages.Razor.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\WebGrease.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.Web.xml
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Newtonsoft.Json.xml
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\System.Web.Helpers.xml
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\System.Web.Mvc.xml
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\System.Web.Optimization.xml
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\System.Web.Razor.xml
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\System.Web.WebPages.xml
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\System.Web.WebPages.Razor.xml
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Antlr3.Runtime.pdb
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\EntityFramework.xml
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\EntityFramework.SqlServer.xml
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.xml
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.xml
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\obj\Debug\Sprint33.csprojAssemblyReference.cache
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\obj\Debug\Sprint33.Migrations.A.resources
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\obj\Debug\Sprint33.Migrations._ref.resources
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\obj\Debug\Sprint33.Migrations.referral.resources
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\obj\Debug\Sprint33.csproj.GenerateResource.cache
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\obj\Debug\Sprint33.csproj.CoreCompileInputs.cache
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\obj\Debug\Sprint33.csproj.CopyComplete
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\obj\Debug\Sprint33.dll
+C:\Users\Cameron\Desktop\Clone\Ingen Development\Sprint33\Sprint33\obj\Debug\Sprint33.pdb
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\ApplicationInsights.config
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\roslyn\csc.exe
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\roslyn\vbc.exe
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\roslyn\VBCSCompiler.exe
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Sprint33.dll.config
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Sprint33.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Sprint33.pdb
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Antlr3.Runtime.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\EntityFramework.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\EntityFramework.SqlServer.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.Web.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.ApplicationInsights.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Newtonsoft.Json.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Owin.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\System.Web.Helpers.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\System.Web.Mvc.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\System.Web.Optimization.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\System.Web.Razor.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\System.Web.WebPages.Deployment.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\System.Web.WebPages.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\System.Web.WebPages.Razor.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\WebGrease.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.Web.xml
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.ApplicationInsights.xml
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Newtonsoft.Json.xml
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\System.Web.Helpers.xml
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\System.Web.Mvc.xml
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\System.Web.Optimization.xml
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\System.Web.Razor.xml
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\System.Web.WebPages.xml
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\System.Web.WebPages.Deployment.xml
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\System.Web.WebPages.Razor.xml
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Antlr3.Runtime.pdb
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\EntityFramework.xml
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\EntityFramework.SqlServer.xml
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.xml
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.xml
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\obj\Debug\Sprint33.csprojResolveAssemblyReference.cache
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\obj\Debug\Sprint33.Migrations.A.resources
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\obj\Debug\Sprint33.Migrations._ref.resources
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\obj\Debug\Sprint33.Migrations.referral.resources
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\obj\Debug\Sprint33.csproj.GenerateResource.Cache
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\obj\Debug\Sprint33.dll
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\obj\Debug\Sprint33.pdb
+C:\Users\katie\Source\Repos\Projects32\Ingen Development\Sprint33\Sprint33\obj\Debug\Sprint33.Migrations.ref2.resources
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\obj\Debug\Sprint33.csprojResolveAssemblyReference.cache
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\obj\Debug\Sprint33.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\obj\Debug\Sprint33.pdb
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\ApplicationInsights.config
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\roslyn\csc.exe
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\roslyn\vbc.exe
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\roslyn\VBCSCompiler.exe
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Sprint33.dll.config
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Sprint33.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Sprint33.pdb
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Antlr3.Runtime.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\EntityFramework.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\EntityFramework.SqlServer.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.AI.Web.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.ApplicationInsights.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.Security.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Newtonsoft.Json.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Owin.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\System.Web.Helpers.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\System.Web.Mvc.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\System.Web.Optimization.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\System.Web.Razor.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\System.Web.WebPages.Deployment.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\System.Web.WebPages.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\System.Web.WebPages.Razor.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\WebGrease.dll
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.AI.Web.xml
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.ApplicationInsights.xml
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Newtonsoft.Json.xml
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\System.Web.Helpers.xml
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\System.Web.Mvc.xml
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\System.Web.Optimization.xml
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\System.Web.Razor.xml
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\System.Web.WebPages.xml
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\System.Web.WebPages.Deployment.xml
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\System.Web.WebPages.Razor.xml
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Antlr3.Runtime.pdb
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\EntityFramework.xml
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\EntityFramework.SqlServer.xml
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.xml
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.Security.xml
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\obj\Debug\Sprint33.Migrations.A.resources
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\obj\Debug\Sprint33.Migrations._ref.resources
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\obj\Debug\Sprint33.Migrations.referral.resources
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\obj\Debug\Sprint33.csproj.GenerateResource.Cache
+C:\Users\katie\OneDrive\Desktop\ref kate\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\obj\Debug\Sprint33.Migrations.referralsnew.resources
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\ApplicationInsights.config
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\roslyn\csc.exe
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\roslyn\vbc.exe
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Sprint33.dll.config
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Sprint33.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Sprint33.pdb
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Antlr3.Runtime.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\EntityFramework.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\EntityFramework.SqlServer.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.AI.Web.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.Security.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Newtonsoft.Json.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Owin.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\System.Web.Helpers.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\System.Web.Mvc.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\System.Web.Optimization.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\System.Web.Razor.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\System.Web.WebPages.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\WebGrease.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.AI.Web.xml
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.ApplicationInsights.xml
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Newtonsoft.Json.xml
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\System.Web.Helpers.xml
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\System.Web.Mvc.xml
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\System.Web.Optimization.xml
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\System.Web.Razor.xml
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\System.Web.WebPages.xml
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Antlr3.Runtime.pdb
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\EntityFramework.xml
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\EntityFramework.SqlServer.xml
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.xml
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.Security.xml
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\obj\Debug\Sprint33.csprojAssemblyReference.cache
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\obj\Debug\Sprint33.Migrations.A.resources
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\obj\Debug\Sprint33.Migrations._ref.resources
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\obj\Debug\Sprint33.Migrations.referral.resources
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\obj\Debug\Sprint33.Migrations.referralsnew.resources
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\obj\Debug\Sprint33.csproj.GenerateResource.cache
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\obj\Debug\Sprint33.csproj.CoreCompileInputs.cache
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\obj\Debug\Sprint33.csproj.CopyComplete
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\obj\Debug\Sprint33.dll
+C:\Users\USER19980316\Desktop\Projects3-master\Projects3-master\Ingen Development\Sprint33\Sprint33\Sprint33\obj\Debug\Sprint33.pdb
