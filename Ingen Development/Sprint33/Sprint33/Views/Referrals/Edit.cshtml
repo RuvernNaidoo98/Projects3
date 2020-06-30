@@ -16,7 +16,7 @@
         @Html.ValidationSummary(true, "", new { @class = "text-danger" })
         @Html.HiddenFor(model => model.refferal_ID)
 
-        <div class="form-group">
+        @*<div class="form-group">
             @Html.LabelFor(model => model.referral_Doctors_Name, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
                 @Html.EditorFor(model => model.referral_Doctors_Name, new { htmlAttributes = new { @class = "form-control" } })
@@ -46,7 +46,7 @@
                 @Html.EditorFor(model => model.referral_doctor_Email, new { htmlAttributes = new { @class = "form-control" } })
                 @Html.ValidationMessageFor(model => model.referral_doctor_Email, "", new { @class = "text-danger" })
             </div>
-        </div>
+        </div>*@
 
         <div class="form-group">
             @Html.LabelFor(model => model.referral_patient_Name, htmlAttributes: new { @class = "control-label col-md-2" })
@@ -79,7 +79,13 @@
                 @Html.ValidationMessageFor(model => model.referral_patient_Gender, "", new { @class = "text-danger" })
             </div>
         </div>
-
+        <div class="form-group">
+            @Html.LabelFor(model => model.refferal_Date, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.refferal_Date, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.refferal_Date, "", new { @class = "text-danger" })
+            </div>
+        </div>
         <div class="form-group">
             @Html.LabelFor(model => model.referral_ValidDate, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">

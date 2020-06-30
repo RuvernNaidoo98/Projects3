@@ -47,10 +47,11 @@ namespace Sprint33.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "refferal_ID,referral_Doctors_Name,referral_doctor_Add,referral_doctor_num,referral_doctor_Email,referral_patient_Name,referral_patient_Surname,referral_patient_DOB,referral_patient_Gender,referral_ValidDate,refferal_Location,referral_Reasoning")] Referral referral)
+        public ActionResult Create([Bind(Include = "refferal_ID,referral_Doctors_Name,referral_doctor_Add,referral_doctor_num,referral_doctor_Email,referral_patient_Name,referral_patient_Surname,referral_patient_DOB,referral_patient_Gender,refferal_Date,referral_ValidDate,refferal_Location,referral_Reasoning")] Referral referral)
         {
-            if (ModelState.IsValid)
+            if ((ModelState.IsValid)&& (referral.referral_ValidDate > DateTime.Now))
             {
+                referral.refferal_Date = DateTime.Now;
                 referral.referral_Doctors_Name = referral.dName();
                 referral.referral_doctor_Add = referral.dAdd();
                 referral.referral_doctor_Email = referral.dEmail();
@@ -83,10 +84,14 @@ namespace Sprint33.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "refferal_ID,referral_Doctors_Name,referral_doctor_Add,referral_doctor_num,referral_doctor_Email,referral_patient_Name,referral_patient_Surname,referral_patient_DOB,referral_patient_Gender,referral_ValidDate,refferal_Location,referral_Reasoning")] Referral referral)
+        public ActionResult Edit([Bind(Include = "refferal_ID,referral_Doctors_Name,referral_doctor_Add,referral_doctor_num,referral_doctor_Email,referral_patient_Name,referral_patient_Surname,referral_patient_DOB,referral_patient_Gender,refferal_Date,referral_ValidDate,refferal_Location,referral_Reasoning")] Referral referral)
         {
-            if (ModelState.IsValid)
+            if ((ModelState.IsValid) && (referral.referral_ValidDate > DateTime.Now))
             {
+                referral.referral_Doctors_Name = referral.dName();
+                referral.referral_doctor_Add = referral.dAdd();
+                referral.referral_doctor_Email = referral.dEmail();
+                referral.referral_doctor_num = referral.dCon();
                 db.Entry(referral).State = EntityState.Modified;
                 db.SaveChanges();
                 return RedirectToAction("Index");

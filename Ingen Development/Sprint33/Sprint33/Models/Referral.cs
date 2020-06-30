@@ -49,17 +49,18 @@ namespace Sprint33.Models
 
         [Display(Name = "Patient Date of birth")]
         [Required]
-        [DataType(DataType.Date)]
+       // [DataType(DataType.Date)]
         public DateTime referral_patient_DOB { get; set; }
 
 
         [Display(Name = "Patient Gender")]
         public string referral_patient_Gender { get; set; }
 
-
+        [Display(Name = "Date Issued")]
+        public DateTime refferal_Date { get; set; }
 
         [Display(Name = "Validate Until")]
-        [DataType(DataType.Date)]
+       // [DataType(DataType.Date)]
         public DateTime referral_ValidDate { get; set; }
 
 
