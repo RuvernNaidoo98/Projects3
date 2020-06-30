@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "Homepage";
+}
+
+<h2 style="text-align:center">Home Page</h2>
+<br>
+<h3 style="text-align:center">Welcome @Session["UserName"]</h3>
+<br><br>
+<h3>@Html.ActionLink("View List of patients", "AdminIndex", "Patients1")</h3>
+<br><br>
+<h3>@Html.ActionLink("View Inventory", "AdminIndex", "Inventories1")</h3>
+<br><br>
+<h3>@Html.ActionLink("View Doctors Appointments", "AdminIndex", "Appointments1")</h3>
+<br><br>
+<h3>@Html.ActionLink("Confirm Patients Bookings", "ConfirmBooking", "Appointments1")</h3>

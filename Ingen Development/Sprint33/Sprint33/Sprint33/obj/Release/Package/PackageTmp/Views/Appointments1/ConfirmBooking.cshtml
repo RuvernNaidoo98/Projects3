@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Sprint33.Models.Appointment>
+
+@{
+    ViewBag.Title = "Confrim Booking";
+}
+
+<h2>Confirm Booking</h2>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.PatientName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DoctorName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AppointmentTime)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        if (item.PatientName != null && item.CheckedIn ==false )
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PatientName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DoctorName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AppointmentTime)
+                </td>
+
+
+                @if (item.Confirmed == true)
+                {
+                    <td>
+                        Confirmed
+                    </td>
+                }
+                else
+                {
+                    <td>
+                        @Html.ActionLink("Confirm", "Confirm", new { id = item.AppointmentID })
+                    </td>
+                }
+
+            </tr>
+        }
+    }
+
+</table>
+@Html.ActionLink("Return to Home", "Homepage", "Admins1")

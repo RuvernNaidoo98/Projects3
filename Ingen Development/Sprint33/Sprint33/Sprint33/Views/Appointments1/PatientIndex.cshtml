@@ -1,0 +1,68 @@
+﻿@model IEnumerable<Sprint33.Models.Appointment>
+
+@{
+    ViewBag.Title = "All Appointment Times";
+}
+
+<h2>Current Appointments</h2>
+<h3>@ViewBag.Message</h3>
+<p>
+
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.PatientName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DoctorName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AppointmentTime)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        if (item.PatientName == Session["Username"].ToString() || item.PatientName == null)
+        {
+            if (item.CheckedIn == false)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.PatientName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DoctorName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.AppointmentTime)
+                    </td>
+                    @if (item.PatientName != null)
+                    {
+                        <td>
+                            Booked
+                        </td>
+                    }
+                    else
+                    {
+
+
+                        <td>
+                            @Html.ActionLink("Book", "BookSlot", new { id = item.AppointmentID })
+                        </td>
+
+
+
+                    }
+
+                </tr>
+            }
+
+
+        }
+    }
+
+</table>
+@Html.ActionLink("Back to Home", "Homepage", "Patients1")

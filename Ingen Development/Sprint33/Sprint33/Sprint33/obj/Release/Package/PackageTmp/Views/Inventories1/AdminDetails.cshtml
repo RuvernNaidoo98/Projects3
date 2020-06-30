@@ -1,0 +1,42 @@
+﻿@model Sprint33.Models.Inventory
+
+@{
+    ViewBag.Title = "AdminDetails";
+}
+
+<h2>AdminDetails</h2>
+
+<div>
+    <h4>Inventory</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.itemName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.itemName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.itemQuantity)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.itemQuantity)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.itemPrice)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.itemPrice)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "AdminEdit", new { id = Model.ItemID }) |
+    @Html.ActionLink("Back to List", "AdminIndex")
+</p>
