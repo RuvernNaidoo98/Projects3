@@ -44,6 +44,9 @@
             @Html.DisplayNameFor(model => model.referral_patient_Gender)
         </th>
         <th>
+            @Html.DisplayNameFor(model => model.refferal_Date)
+        </th>
+        <th>
             @Html.DisplayNameFor(model => model.referral_ValidDate)
         </th>
         <th>
@@ -76,13 +79,19 @@
             @Html.DisplayFor(modelItem => item.referral_patient_Surname)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.referral_patient_DOB)
+            @Html.FormatValue("yyyy-MM-dd", item.referral_patient_DOB.ToString("yyyy-MM-dd"))
+            @*@Html.DisplayFor(modelItem => item.referral_patient_DOB)*@
         </td>
         <td>
             @Html.DisplayFor(modelItem => item.referral_patient_Gender)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.referral_ValidDate)
+            @*@Html.DisplayFor(modelItem => item.referral_ValidDate)*@
+            @Html.FormatValue("yyyy-MM-dd", item.refferal_Date.ToString("yyyy-MM-dd"))
+        </td>
+        <td>
+            @Html.FormatValue("yyyy-MM-dd", item.referral_ValidDate.ToString("yyyy-MM-dd"))
+            @*@Html.DisplayFor(modelItem => item.referral_ValidDate)*@
         </td>
         <td>
             @Html.DisplayFor(modelItem => item.refferal_Location)

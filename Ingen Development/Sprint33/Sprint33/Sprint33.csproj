@@ -223,6 +223,10 @@
     <Compile Include="Migrations\202006291459125_referral.Designer.cs">
       <DependentUpon>202006291459125_referral.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202006300908336_ref2.cs" />
+    <Compile Include="Migrations\202006300908336_ref2.Designer.cs">
+      <DependentUpon>202006300908336_ref2.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Admin.cs" />
@@ -393,6 +397,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202006291459125_referral.resx">
       <DependentUpon>202006291459125_referral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202006300908336_ref2.resx">
+      <DependentUpon>202006300908336_ref2.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
