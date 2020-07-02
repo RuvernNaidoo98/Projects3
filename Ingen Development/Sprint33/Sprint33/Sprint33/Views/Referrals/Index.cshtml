@@ -58,53 +58,56 @@
         <th></th>
     </tr>
 
-@foreach (var item in Model) {
-    <tr>
-        <td>
-            @Html.DisplayFor(modelItem => item.referral_Doctors_Name)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.referral_doctor_Add)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.referral_doctor_num)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.referral_doctor_Email)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.referral_patient_Name)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.referral_patient_Surname)
-        </td>
-        <td>
-            @Html.FormatValue("yyyy-MM-dd", item.referral_patient_DOB.ToString("yyyy-MM-dd"))
-            @*@Html.DisplayFor(modelItem => item.referral_patient_DOB)*@
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.referral_patient_Gender)
-        </td>
-        <td>
-            @*@Html.DisplayFor(modelItem => item.referral_ValidDate)*@
-            @Html.FormatValue("yyyy-MM-dd", item.refferal_Date.ToString("yyyy-MM-dd"))
-        </td>
-        <td>
-            @Html.FormatValue("yyyy-MM-dd", item.referral_ValidDate.ToString("yyyy-MM-dd"))
-            @*@Html.DisplayFor(modelItem => item.referral_ValidDate)*@
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.refferal_Location)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.referral_Reasoning)
-        </td>
-        <td>
-            @Html.ActionLink("Edit", "Edit", new { id=item.refferal_ID }) |
-            @Html.ActionLink("Details", "Details", new { id=item.refferal_ID }) |
-            @Html.ActionLink("Delete", "Delete", new { id=item.refferal_ID })
-        </td>
-    </tr>
-}
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.referral_Doctors_Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.referral_doctor_Add)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.referral_doctor_num)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.referral_doctor_Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.referral_patient_Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.referral_patient_Surname)
+            </td>
+            <td>
+                @Html.FormatValue("yyyy-MM-dd", item.referral_patient_DOB.ToString("yyyy-MM-dd"))
+                @*@Html.DisplayFor(modelItem => item.referral_patient_DOB)*@
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.referral_patient_Gender)
+            </td>
+            <td>
+                @*@Html.DisplayFor(modelItem => item.referral_ValidDate)*@
+                @Html.FormatValue("yyyy-MM-dd", item.refferal_Date.ToString("yyyy-MM-dd"))
+            </td>
+            <td>
+                @Html.FormatValue("yyyy-MM-dd", item.referral_ValidDate.ToString("yyyy-MM-dd"))
+                @*@Html.DisplayFor(modelItem => item.referral_ValidDate)*@
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.refferal_Location)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.referral_Reasoning)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.refferal_ID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.refferal_ID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.refferal_ID })
+            </td>
+        </tr>
+    }
 
 </table>
+<br>
+<h3>@Html.ActionLink("Return To Doctors Home Page", "Homepage", "Doctors1")</h3>

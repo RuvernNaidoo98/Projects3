@@ -59,7 +59,7 @@ namespace Sprint33.Models
         [Display(Name = "Date Issued")]
         public DateTime refferal_Date { get; set; }
 
-        [Display(Name = "Validate Until")]
+        [Display(Name = "Referral Letter Valid Until")]
        // [DataType(DataType.Date)]
         public DateTime referral_ValidDate { get; set; }
 
