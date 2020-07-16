@@ -38,7 +38,11 @@
             </td>
 
             <td>
-                @Html.ActionLink("Confirm patient checked in", "Perscriptions", new { id = item.AppointmentID })
+                <a type="button" class="btn btn-primary" 
+                   href="@Url.Action("AddPrescription", "Prescriptions", 
+                        new { patientId = item.PatientID})">
+                    Create Prescription
+                </a>
             </td>
         </tr>
     }

@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Sprint33.Models.Prescription>
+
+@{
+    ViewBag.Title = "Patient Prescription";
+}
+
+<h2>Patient Records</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            Date Issued
+        </th>
+        <th>
+            Name
+        </th>
+        <th>
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        if (item.PatientName == Session["UserName"].ToString())
+        {
+<tr>
+
+    <td>
+        @Html.DisplayFor(modelItem => item.DateIssued)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.PatientName)
+    </td>
+    <td>
+        @Html.ActionLink("View Prescription", "ViewPrescription",
+            new { id = item.PrescriptionId })
+    </td>
+
+</tr>
+        }
+
+    }
+
+</table>
+@Html.ActionLink("Return Home", "Homepage", "Patients1")

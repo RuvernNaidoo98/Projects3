@@ -1,0 +1,59 @@
+﻿@model Sprint33.Models.Prescription
+
+@{
+    ViewBag.Title = "ViewPrescription";
+}
+
+<div>
+    <h4>Prescription</h4>
+
+    <a href="javascript:window.print()" class="btn btn-primary">Click To Print This Page</a>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.PrescriptionDetails)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PrescriptionDetails)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateIssued)
+        </dt>
+
+        <dd>
+            @*@Html.DisplayFor(model => model.DateIssued)*@
+            @Html.FormatValue("yyyy-MM-dd", Model.DateIssued.ToString("yyyy-MM-dd"))
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PrescriptionValid)
+        </dt>
+
+        <dd>
+            @*@Html.DisplayFor(model => model.PrescriptionValid)*@
+            @Html.FormatValue("yyyy-MM-dd", Model.PrescriptionValid.ToString("yyyy-MM-dd"))
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DoctorName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DoctorName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PatientName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PatientName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Back to List", "PrescriptionHistory")
+</p>

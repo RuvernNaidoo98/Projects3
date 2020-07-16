@@ -1,0 +1,62 @@
+﻿@model IEnumerable<Sprint33.Models.Prescription>
+
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Prescriptions</h2>
+
+<p>
+    <div>
+        <a href="@Url.Action("Create")" class="btn btn-primary">New Prescription</a><br />
+        <br />
+        <div>
+            @using (Html.BeginForm("Index", "Prescriptions", FormMethod.Get))
+            {
+                @Html.TextBox("Search") <input type="submit" value="Search" />
+            }
+        </div>
+    </div>
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Patient
+        </th>
+        <th>
+            Date Issued
+        </th>
+        <th>
+            Prescription
+        </th>
+    </tr>
+
+    @if (Model.Count() == 0)
+    {
+        <tr>
+            <td colspan="2"><b>No Patients that match search criteria</b></td>
+        </tr>
+    }
+    else
+    {
+        foreach (var item in Model)
+        {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.PatientName)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.DateIssued)
+    </td>
+
+    <td>
+        @Html.ActionLink("View Prescription", "Details", new { id = item.PrescriptionId })
+    </td>
+</tr>
+
+        }
+    }
+</table>
+@Html.ActionLink("Return Home", "Homepage", "Doctors1")
